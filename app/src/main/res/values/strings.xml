@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">universite_degerlendirme</string>
+    <string name="app_name">PusulAkademi</string>
+    <string name="app_title">PusulAkademi</string>
+    <string name="app_subtitle">Üniversite, Ders &amp; Hoca Değerlendirme Rehberi</string>
+    <string name="splash_footer">v1.0 • Pusulanız Doğru Eğitimi Göstersin</string>
+    <string name="main_welcome">PusulAkademi\'ye Hoş Geldiniz</string>
 </resources>

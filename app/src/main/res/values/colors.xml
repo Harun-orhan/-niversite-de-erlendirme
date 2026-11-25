@@ -7,4 +7,12 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- PusulAkademi Marka Renkleri (Logodan ilham alan zümrüt/orman yeşili & temiz arka plan) -->
+    <color name="primary_green">#194D44</color>
+    <color name="primary_dark_green">#0E332D</color>
+    <color name="accent_mint">#4E877D</color>
+    <color name="splash_bg">#F4F7F6</color>
+    <color name="splash_text">#194D44</color>
+    <color name="splash_subtitle">#5A736E</color>
 </resources>
